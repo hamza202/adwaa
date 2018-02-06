@@ -1,0 +1,58 @@
+.search-bar input{
+    border-bottom-left-radius:4px ;
+    border-top-left-radius:4px ;
+
+}
+.menu-bar-bg,
+.search-bar-item button,
+.sign-in .sign-in-hover a.login{
+    background-color: #3b4697;
+}
+.sign-in .sign-in-hover a.login{
+    border-color: #3b4697;
+}
+.logo-bar-bg{
+    background-color: #181c3c;
+}
+.newslatter-input input.sub-btn{
+    background-color: #181c3c;
+}
+.buy-hover a{
+    padding-right:0;
+}
+@media (max-width: 1430px) and (min-width: 1200px) {
+    .menu-bar-bg ul li {
+        padding: 10px 33px;
+    }
+}
+#Todays-Deals .no-padding{
+    min-height: 270px !important;
+}
+.bx-controls .fa{
+    font-size: 20px;
+    color: #000;
+    line-height: 28px;
+}
+a.bx-prev,
+a.bx-next{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #333;
+    margin: 5px;
+}
+.bx-controls-direction{
+    padding-top: 20px;
+}
+.bx-viewport{
+    min-height: 60px;
+}
+.footer-bg {
+    background-color: #181c3c;
+}
+.categories ul li a.main-a{
+    background-color: #3b4697;
+}
+.deals-of-day h2{
+    color: #3b4697;
+}
