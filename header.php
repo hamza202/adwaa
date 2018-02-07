@@ -1,7 +1,7 @@
 <section class="fix-nav">
     <div class="container-fluid logo-bar-bg">
         <div class="logo-top-row">
-            <div class="col-lg-3 text-center"><a href="index.html"><img src="../assests/img/logo.png"
+            <div class="col-lg-3 text-center"><a href="index.html"><img src="assests/img/logo.png"
                                                                         alt=""/></a></div>
             <div class="col-lg-9">
                 <div class="clearfix"></div>
@@ -19,7 +19,31 @@
                 </div>
                 <div class="col-lg-3 wishlist">
                     <div class="row">
-                        <div class="sign-in"><a href="#" data-toggle="modal" data-target="#myModal2">
+                        <div class="cart-item">
+                            <a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                <p>Cart item</p>
+                                <span>1</span></a>
+                            <div class="cart-item-hover">
+                                <div class="cart-item-list"> <img src="assests/img/cart-hover/item-1.png" alt="" />
+                                    <h3>item 1</h3>
+                                    <b><a href="#">X</a></b>
+                                    <p>$49.00 <del>69.00</del></p>
+                                </div>
+                                <div class="cart-item-list"> <img src="assests/img/cart-hover/item-2.png" alt="" />
+                                    <h3>item 2</h3>
+                                    <b><a href="#">X</a></b>
+                                    <p>$50.00 <del>69.00</del></p>
+                                </div>
+                                <div class="border"></div>
+                                <div class="cart-total">
+                                    <h6>Total Price</h6>
+                                    <p>$99.00</p>
+                                    <div class="clearfix"></div>
+                                    <a href="#" class="cart-view">View all</a> <a href="#" class="cart-checkout">Check out</a> </div>
+                            </div>
+                        </div>
+                        <div class="sign-in">
+                            <a href="#" data-toggle="modal" data-target="#myModal2">
                                 <p>Sign in</p>
                                 <i class="fa fa-user-circle" aria-hidden="true"></i></a>
                             <div class="sign-in-hover">
@@ -46,13 +70,13 @@
             <div class="row">
                 <div class="collapse mega-menu submenu navbar-collapse text-center" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="javascript:void(0)">Home Pages</a></li>
+                        <li><a href="javascript:void(0)">Home</a></li>
                         <li>
-                            <a href="javascript:void(0)">Project<i class="fa fa-angle-down"
+                            <a href="javascript:void(0)">Products<i class="fa fa-angle-down"
                                                                    aria-hidden="true"></i></a>
                             <div class="submenu-1">
                                 <ul>
-                                    <li><a href="#">Project1&nbsp;<i class="fa fa-angle-right"
+                                    <li><a href="#">products&nbsp;<i class="fa fa-angle-right"
                                                                      aria-hidden="true"></i></a>
                                         <div class="sub-mega-menu">
                                             <div class="sub-main-menu">
@@ -77,10 +101,9 @@
                             </div>
                         </li>
 
-                        <li><a href="javascript:void(0)">Promotions</a></li>
-                        <li><a href="javascript:void(0)">New Items</a></li>
+                        <li><a href="javascript:void(0)">Mayfactrion</a></li>
+                        <li><a href="javascript:void(0)">Contuct us</a></li>
                         <li><a href="javascript:void(0)">Catalog</a></li>
-                        <li><a href="javascript:void(0)">Contact us</a></li>
 
                     </ul>
                 </div>
@@ -96,7 +119,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
                 <div class="col-sm-5">
-                    <div class="modal-img"><img src="../assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
+                    <div class="modal-img"><img src="assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
                 </div>
                 <div class="col-sm-7 modal-text">
                     <div class="form-sec text-center">
@@ -112,13 +135,13 @@
                         <!-- Tab panes -->
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane fade" id="profile">
-                                <div class="input-row"><img src="../assests/img/icon/phone.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/phone.png" alt=""/>
                                     <input type="text" placeholder="Mobile Number"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/email.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
                                     <input type="email" placeholder="Email ID (optional)"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/key.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
                                     <input type="password" placeholder="Enter your password"/>
                                 </div>
                                 <div class="privacy-sec text-left">
@@ -129,14 +152,14 @@
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="button"><a href="#"><img src="../assests/img/icon/lock.png" alt=""/> Create
+                                <div class="button"><a href="#"><img src="assests/img/icon/lock.png" alt=""/> Create
                                         your account</a></div>
                             </div>
                             <div role="tabpanel" class="tab-pane fade in active" id="home">
-                                <div class="input-row"><img src="../assests/img/icon/email.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
                                     <input type="email" placeholder="Email ID (optional)"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/key.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
                                     <input type="password" placeholder="Enter your password"/>
                                 </div>
                                 <div class="forgot-row"><a data-toggle="modal" data-target="#myModal3"
@@ -149,7 +172,7 @@
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="button"><a href="#"><img src="../assests/img/icon/lock.png" alt=""/> Secure
+                                <div class="button"><a href="#"><img src="assests/img/icon/lock.png" alt=""/> Secure
                                         Login</a></div>
                             </div>
                         </div>
@@ -169,7 +192,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
                 <div class="col-sm-5">
-                    <div class="modal-img"><img src="../assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
+                    <div class="modal-img"><img src="assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
                 </div>
                 <div class="col-sm-7 modal-text text-center">
                     <div class="form-sec">
@@ -185,13 +208,13 @@
                         <!-- Tab panes -->
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane fade in active" id="profile2">
-                                <div class="input-row"><img src="../assests/img/icon/phone.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/phone.png" alt=""/>
                                     <input type="text" placeholder="Mobile Number"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/email.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
                                     <input type="email" placeholder="Email ID (optional)"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/key.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
                                     <input type="password" placeholder="Enter your password"/>
                                 </div>
                                 <div class="privacy-sec text-left">
@@ -202,14 +225,14 @@
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="button"><a href="#"><img src="../assests/img/icon/lock.png" alt=""/> Create
+                                <div class="button"><a href="#"><img src="assests/img/icon/lock.png" alt=""/> Create
                                         your account</a></div>
                             </div>
                             <div role="tabpanel" class="tab-pane fade" id="home2">
-                                <div class="input-row"><img src="../assests/img/icon/email.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
                                     <input type="email" placeholder="Email ID (optional)"/>
                                 </div>
-                                <div class="input-row"><img src="../assests/img/icon/key.png" alt=""/>
+                                <div class="input-row"><img src="assests/img/icon/key.png" alt=""/>
                                     <input type="password" placeholder="Enter your password"/>
                                 </div>
                                 <div class="forgot-row"><a data-toggle="modal" data-target="#myModal3"
@@ -222,7 +245,7 @@
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="button"><a href="#"><img src="../assests/img/icon/lock.png" alt=""/> Secure
+                                <div class="button"><a href="#"><img src="assests/img/icon/lock.png" alt=""/> Secure
                                         Login</a></div>
                             </div>
                         </div>
@@ -242,13 +265,13 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
                 <div class="col-sm-5">
-                    <div class="modal-img"><img src="../assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
+                    <div class="modal-img"><img src="assests/img/modal-img.jpg" class="img-responsive" alt=""/></div>
                 </div>
                 <div class="col-sm-7 modal-text">
                     <div class="form-sec">
                         <h2>Forgot Password?</h2>
                         <p>To reset your password, please Enter your email below.</p>
-                        <div class="input-row"><img src="../assests/img/icon/email.png" alt=""/>
+                        <div class="input-row"><img src="assests/img/icon/email.png" alt=""/>
                             <input type="email" placeholder="Email ID (optional)"/>
                         </div>
                         <div class="button"><a href="#">Send</a></div>

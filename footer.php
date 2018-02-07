@@ -2,7 +2,7 @@
     <div class="container footer-padding">
         <div class="row footer footer-soc">
             <div class="col-sm-12 col-md-5">
-                <div class="footer-logo"><a href="#"><img src="../assests/img/logo.png" alt=""/></a>
+                <div class="footer-logo"><a href="#"><img src="assests/img/logo.png" alt=""/></a>
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum porttitor egestas orci vitae
                     ullamcorper risus consectetur id. Donec at velit vestibulum rutrum massa quis.</p>
@@ -61,7 +61,7 @@
         <div class="footer-hr"></div>
         <div class="row footer-payment">
             <div class="col-xs-12 col-sm-12  footer-pay-p">
-                <p>©2018 &nbsp;<a href="#"><img src="../assests/img/horse.png" alt=""/>&nbsp; Adwaa.</a> All
+                <p>©2018 &nbsp;<a href="#"><img src="assests/img/horse.png" alt=""/>&nbsp; Adwaa.</a> All
                     Rights Reserved.</p>
             </div>
             <div class="clearfix"></div>

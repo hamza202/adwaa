@@ -8,30 +8,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Adwaa</title>
     <!--favicon-->
-    <!--<link rel="icon" href="../assests/img/index/favicon.png" sizes="32x32">-->
+    <!--<link rel="icon" href="assests/img/index/favicon.png" sizes="32x32">-->
     <!--style-->
-    <link href="../assests/css/style-3.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/style-3.css" rel="stylesheet" type="text/css">
 
-    <link href="../assests/css/style.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/style.css" rel="stylesheet" type="text/css">
     <!--font-awesome-->
     <link href="font/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!--font-online-->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,900" rel="stylesheet">
     <!--Bootstrap-->
-    <link href="../assests/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/bootstrap.css" rel="stylesheet" type="text/css">
     <!--slider-->
-    <link href="../assests/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="../assests/css/theme.css" rel="stylesheet">
+    <link href="assests/css/owl.carousel.min.css" rel="stylesheet">
+    <link href="assests/css/theme.css" rel="stylesheet">
     <!--Slick-slider-->
-    <link href="../assests/css/slick.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/slick.css" rel="stylesheet" type="text/css">
     <!--thumbnail-slider-->
-    <link rel="stylesheet" href="../assests/css/lightslider.html"/>
+    <link rel="stylesheet" href="assests/css/lightslider.html"/>
     <!--Checkbox-->
-    <link href="../../../../cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/2.2.1/pretty.min.css" rel="stylesheet">
+<!--    <link href="../../../cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/2.2.1/pretty.min.css" rel="stylesheet">-->
     <!--fonts-->
     <link href="font/flaticon.css" rel="stylesheet" type="text/css">
 
-    <link href="../assests/css/castome.css" rel="stylesheet" type="text/css">
+    <link href="assests/css/castome.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -42,37 +42,7 @@
 <div class="container top-sec"><!--main-container-->
     <div class="row"><!--row-->
 
-        <div class="col-md-offset-0 col-md-3 padd-60 padd-btn-none"><!--left-sec-->
-            <div class="row categories">
-                <ul>
-                    <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i class='fa fa-angle-down'></i></a>
-                        <ul>
-                            <li><a href="#">All Offers</a>
-                            </li>
-                            <li><a href="#">Mobile & Tablets</a>
-                            </li>
-                            <li><a href="#">Electronics</a>
-                            </li>
-                            <li><a href="#">Computers & Accessories</a>
-                            </li>
-                            <li><a href="#">Clothing & Accessories</a>
-                            </li>
-                            <li><a href="#">Home & Furniture</a>
-                            </li>
-                            <li><a href="#">Kitchen & Bathroom</a>
-                            </li>
-                            <li><a href="#">Baby Care & Kids Toys</a>
-                            </li>
-                            <li><a href="#">Health & Beauty</a>
-                            </li>
-                            <li><a href="#">Sports, Fitness & Outdoors</a>
-                            </li>
 
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
         <div class="col-md-9 padd-60 slider"><!--right-sec-->
 
             <!--main-slider-->
@@ -80,10 +50,10 @@
 
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
-                    <div class="item active"> <img src="../assests/img/index/1.jpg" alt="..." class="img-responsive" />
+                    <div class="item active"> <img src="assests/img/index/1.jpg" alt="..." class="img-responsive" />
                         <div class="carousel-caption"> </div>
                     </div>
-                    <div class="item"> <img src="../assests/img/index/2.jpg" alt="..." class="img-responsive" />
+                    <div class="item"> <img src="assests/img/index/2.jpg" alt="..." class="img-responsive" />
                         <div class="carousel-caption"> </div>
                     </div>
                 </div>
@@ -92,11 +62,32 @@
                 <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"> <span class="glyphicon-chevron-left" aria-hidden="true"><i class="fa fa-chevron-left" aria-hidden="true"></i></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon-chevron-right" aria-hidden="true"><i class="fa fa-chevron-right" aria-hidden="true"></i></span> <span class="sr-only">Next</span> </a> </div>
             <div class="row padd-60">
                 <div class="col-sm-6">
-                    <img class="img-responsive" src="../assests/img/index/1.jpg">
+                    <img class="img-responsive" src="assests/img/index/1.jpg">
                 </div>
                 <div class="col-sm-6">
-                    <img class="img-responsive" src="../assests/img/index/2.jpg">
+                    <img class="img-responsive" src="assests/img/index/2.jpg">
                 </div>
+            </div>
+        </div>
+        <div class="col-md-offset-0 col-md-3 padd-60 padd-btn-none"><!--left-sec-->
+            <div class="row categories">
+                <ul>
+                    <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i class='fa fa-angle-down'></i></a>
+                        <ul>
+                            <li><a href="#">about us</a>
+                            </li>
+                            <li><a href="#">categories</a>
+                            </li>
+                            <li><a href="#">promation</a>
+                            </li>
+                            <li><a href="#">join our</a>
+                            </li>
+                            <li><a href="#">clearna</a>
+                            </li>
+                            <li><a href="#">new</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -112,7 +103,7 @@
             <div class="owl-carousel" id="tranding">
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-1.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-1.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -124,7 +115,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-2.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-2.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -136,7 +127,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-3.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-3.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -148,7 +139,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-4.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-4.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -160,7 +151,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-5.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-5.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -172,7 +163,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-6.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-6.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -184,100 +175,7 @@
                 </div>
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-7.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="text-center mt-30">
-            <h2 class="sec-heading">Popular Products</h2>
-        </div>
-        <div class="clearfix"></div>
-        <div class="Bathroom">
-            <div class="owl-carousel" id="Bathroom">
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-1.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-2.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-3.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-4.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-5.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-6.jpg" alt=""/> <span class="quick" data-toggle="modal"
-                                                                                       data-target="#myModalquick"> <i
-                            class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
-                    </div>
-                    <div class="caption item-body">
-                        <h4 class="caption-title"><a href="#">Lorem ipsum dolor sit amet lorem ipsum</a></h4>
-                        <div class="buy-hover"><a href="#">More Details  </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail no-border no-padding">
-                    <div class="media"><a class="media-link" data-gal="prettyPhoto">
-                        <img src="../assests/img/product/Product-7.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-7.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -331,7 +229,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">40%</div>
-                        <img src="../assests/img/product/Product-3.jpg" alt=""/> <span class="quick"
+                        <img src="assests/img/product/Product-3.jpg" alt=""/> <span class="quick"
                                                                                         data-toggle="modal"
                                                                                         data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
@@ -346,7 +244,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">40%</div>
-                        <img src="../assests/img/product/Product-4.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-4.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -359,7 +257,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">20%</div>
-                        <img src="../assests/img/product/Product-5.jpg" alt=""/> <span class="quick"
+                        <img src="assests/img/product/Product-5.jpg" alt=""/> <span class="quick"
                                                                                         data-toggle="modal"
                                                                                         data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
@@ -373,7 +271,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">20%</div>
-                        <img src="../assests/img/product/Product-6.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-6.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                        data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -387,7 +285,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">30%</div>
-                        <span class="out-stock">Out of Stock</span> <img src="../assests/img/product/Product-1.jpg"
+                        <span class="out-stock">Out of Stock</span> <img src="assests/img/product/Product-1.jpg"
                                                                          alt=""/>
                         <span class="quick" data-toggle="modal" data-target="#myModalquick"> <i
                                 class="fa fa-search-plus"
@@ -402,7 +300,7 @@
                 <div class="thumbnail no-border no-padding">
                     <div class="media"><a class="media-link" data-gal="prettyPhoto" href="#">
                         <div class="sale-label">70%</div>
-                        <img src="../assests/img/product/Product-2.jpg" alt=""/> <span class="quick" data-toggle="modal"
+                        <img src="assests/img/product/Product-2.jpg" alt=""/> <span class="quick" data-toggle="modal"
                                                                                       data-target="#myModalquick"> <i
                             class="fa fa-search-plus" aria-hidden="true"></i></span>  </a>
                     </div>
@@ -425,12 +323,12 @@
             <div class="col-md-12">
                 <h3>Latest News</h3>
                 <section role="complementary" class="simple quotes no-fouc">
-                    <blockquote><img src="../assests/img/product/Product-4.jpg" alt=""/>
+                    <blockquote><img src="assests/img/product/Product-4.jpg" alt=""/>
                         <h5>Lorem ipsum dolor</h5>
                         <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
                             ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
                         <a href="#" class="def-btn">Read More</a></blockquote>
-                    <blockquote><img src="../assests/img/product/Product-5.jpg" alt=""/>
+                    <blockquote><img src="assests/img/product/Product-5.jpg" alt=""/>
                         <h5>Lorem ipsum dolor</h5>
                         <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
                             ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
@@ -445,7 +343,7 @@
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
                         <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
                             ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
-                        <div class="testimonial-body"><img src="../assests/img/testimonial/testi-1.jpg"
+                        <div class="testimonial-body"><img src="assests/img/testimonial/testi-1.jpg"
                                                            class="img-circle"
                                                            alt=""/>
                             <h3>Victor Hickory</h3>
@@ -455,7 +353,7 @@
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
                         <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
                             ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
-                        <div class="testimonial-body"><img src="../assests/img/testimonial/testi-2.jpg"
+                        <div class="testimonial-body"><img src="assests/img/testimonial/testi-2.jpg"
                                                            class="img-circle"
                                                            alt=""/>
                             <h3>Victor Hickory</h3>
@@ -465,7 +363,7 @@
                     <blockquote><i class="fa fa-quote-left" aria-hidden="true"></i>
                         <p>Lorem ipsum dolor sit a consectet dipiscing elit. Vestibulum porttitor egestas orci, itae
                             ullamcorper risus consectetur id. Donec at velit vest ibu massuis,porttitor lorem. </p>
-                        <div class="testimonial-body"><img src="../assests/img/testimonial/testi-3.jpg"
+                        <div class="testimonial-body"><img src="assests/img/testimonial/testi-3.jpg"
                                                            class="img-circle"
                                                            alt=""/>
                             <h3>Victor Hickory</h3>
@@ -484,15 +382,15 @@
             <div class="container text-center">
                 <h2 class="sec-heading">Manufacturers</h2>
                 <ul class="bxslider">
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="../assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
+                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
 
                 </ul>
             </div>
@@ -524,10 +422,10 @@
 <?php include ('footer.php')?>
 
 <!--Ajax-->
-<script src="../assests/js/ajax.js"></script>
+<script src="assests/js/ajax.js"></script>
 <!--bootstrap.min-->
-<script src="../assests/js/bootstrap.min.js"></script>
-<script src="../assests/js/bx-slider.js"></script>
+<script src="assests/js/bootstrap.min.js"></script>
+<script src="assests/js/bx-slider.js"></script>
 <script>
     $('.bxslider').bxSlider({
         minSlides: 1,
@@ -561,11 +459,11 @@
     });
 </script>
 <!-- JS Global-slider -->
-<script src="../assests/js/owl.carousel.min.js"></script>
-<script src="../assests/js/theme.js"></script>
+<script src="assests/js/owl.carousel.min.js"></script>
+<script src="assests/js/theme.js"></script>
 <!--Select-custom-->
-<script src="../assests/js/classie.js"></script>
-<script src="../assests/js/selectFx.js"></script>
+<script src="assests/js/classie.js"></script>
+<script src="assests/js/selectFx.js"></script>
 <script>
     (function () {
         [].slice.call(document.querySelectorAll('select.cs-select')).forEach(function (el) {
@@ -617,7 +515,7 @@
     initializeClock('clockdiv', deadline);
 </script>
 <!--Slick-slider-->
-<script src="../assests/js/slick.js"></script>
+<script src="assests/js/slick.js"></script>
 <script>
     $('.quotes').slick({
         dots: false,
