@@ -24,12 +24,12 @@
                                 <p>Cart item</p>
                                 <span>1</span></a>
                             <div class="cart-item-hover">
-                                <div class="cart-item-list"> <img src="assests/img/cart-hover/item-1.png" alt="" />
+                                <div class="cart-item-list"> <img src="assests/img/product/Product-4.jpg" alt="" />
                                     <h3>item 1</h3>
                                     <b><a href="#">X</a></b>
                                     <p>$49.00 <del>69.00</del></p>
                                 </div>
-                                <div class="cart-item-list"> <img src="assests/img/cart-hover/item-2.png" alt="" />
+                                <div class="cart-item-list"> <img src="assests/img/product/Product-5.jpg" alt="" />
                                     <h3>item 2</h3>
                                     <b><a href="#">X</a></b>
                                     <p>$50.00 <del>69.00</del></p>

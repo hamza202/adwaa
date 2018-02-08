@@ -106,6 +106,7 @@ select.sin-select:focus{
     border-bottom: 2px solid #f1f1f1;
     border-radius: 0;
 }
-select.sin-select{
-
+.cart-item .cart-item-hover .cart-item-list img{
+    max-width: 52px;
+    margin-top: 0;
 }
