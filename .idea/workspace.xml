@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assests/css/castome.css" afterPath="$PROJECT_DIR$/assests/css/castome.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Flaticon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Flaticon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Flaticon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Flaticon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Flaticond41d.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Poppins-Bold.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Poppins-Light.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Poppins-Medium.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Poppins-Regular.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/Poppins-SemiBold.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/flaticon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font-awesome-4.7.0/fonts/fontawesome-webfontd41d.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/Flaticon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/Flaticon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/Flaticon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/Flaticon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/Flaticond41d.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/font/font/flaticon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/footer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/header.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="castome.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="castome.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+            <state relative-caret-position="385">
+              <caret line="63" column="15" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -65,11 +37,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <state relative-caret-position="340">
+              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding>
-                <element signature="e#10704#10710#0#HTML" expanded="true" />
-                <element signature="e#10717#10723#0#HTML" expanded="true" />
+                <element signature="e#10585#10591#0#HTML" expanded="true" />
+                <element signature="e#10598#10604#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1134">
@@ -161,11 +133,11 @@
         <option value="$PROJECT_DIR$/assests/css/style.css" />
         <option value="$PROJECT_DIR$/shop/footer.php" />
         <option value="$PROJECT_DIR$/shop/index.php" />
-        <option value="$PROJECT_DIR$/assests/css/castome.css" />
         <option value="$PROJECT_DIR$/shop/header.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assests/css/castome.css" />
       </list>
     </option>
   </component>
@@ -177,8 +149,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-48" />
-    <option name="y" value="64" />
+    <option name="x" value="460" />
+    <option name="y" value="188" />
     <option name="width" value="832" />
     <option name="height" value="735" />
   </component>
@@ -210,6 +182,12 @@
               <item name="adwaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="adwaa" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="adwaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adwaa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assests" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -255,18 +233,17 @@
       <workItem from="1517920981303" duration="432000" />
       <workItem from="1517954495970" duration="493000" />
       <workItem from="1517995387332" duration="1174000" />
-      <workItem from="1517996583875" duration="771000" />
+      <workItem from="1517996583875" duration="3071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26597000" />
+    <option name="totallyTimeSpent" value="28897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19692533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19692533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -285,6 +262,26 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19692533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -616,21 +613,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
+    <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+        <state relative-caret-position="1134">
+          <caret line="63" column="63" lean-forward="false" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
           <folding>
-            <element signature="e#10704#10710#0#HTML" expanded="true" />
-            <element signature="e#10717#10723#0#HTML" expanded="true" />
+            <element signature="e#574#580#0#HTML" expanded="true" />
+            <element signature="e#768#774#0#HTML" expanded="true" />
+            <element signature="e#3185#3191#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -648,15 +638,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" column="63" lean-forward="false" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
+        <state relative-caret-position="340">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
           <folding>
-            <element signature="e#574#580#0#HTML" expanded="true" />
-            <element signature="e#768#774#0#HTML" expanded="true" />
-            <element signature="e#3185#3191#0#HTML" expanded="true" />
+            <element signature="e#10585#10591#0#HTML" expanded="true" />
+            <element signature="e#10598#10604#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="63" column="15" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>

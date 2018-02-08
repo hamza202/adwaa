@@ -56,6 +56,13 @@ a.bx-next{
 .deals-of-day h2{
     color: #3b4697;
 }
+.cart-item a i{
+    color: #fff;
+}
+.cart-item span{
+    background-color: #fff;
+    color: #222;
+}
 @media only screen and (min-width : 1200px) {
     .cart-item .cart-item-hover{
         left: -99%;

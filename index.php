@@ -27,7 +27,6 @@
     <!--thumbnail-slider-->
     <link rel="stylesheet" href="assests/css/lightslider.html"/>
     <!--Checkbox-->
-<!--    <link href="../../../cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/2.2.1/pretty.min.css" rel="stylesheet">-->
     <!--fonts-->
     <link href="font/flaticon.css" rel="stylesheet" type="text/css">
 
