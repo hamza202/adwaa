@@ -49,7 +49,7 @@
                             <div class="sign-in-hover">
                                 <a>Your Account</a>
                                 <a>Logout</a>
-                                <a href="#" data-toggle="modal" data-target="#myModal" class="login">Login</a></div>
+                                <a href="#" data-toggle="modal" data-target="#myModal2" class="login">Login</a></div>
                         </div>
                     </div>
                 </div>

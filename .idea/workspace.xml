@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="" />
+    <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="346">
@@ -51,21 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="436" column="38" lean-forward="false" selection-start-line="436" selection-start-column="38" selection-end-line="436" selection-end-column="38" />
+            <state relative-caret-position="392">
+              <caret line="51" column="86" lean-forward="false" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
               <folding>
                 <element signature="n#select#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#10960#10965#0#HTML" expanded="true" />
-                <element signature="e#12767#12772#0#HTML" expanded="true" />
-                <element signature="e#28467#28472#0#HTML" expanded="true" />
-                <element signature="e#28598#28603#0#HTML" expanded="true" />
-                <element signature="e#29111#29116#0#HTML" expanded="true" />
-                <element signature="e#31803#31808#0#HTML" expanded="true" />
-                <element signature="e#32208#32213#0#HTML" expanded="true" />
-                <element signature="e#33890#33895#0#HTML" expanded="true" />
+                <element signature="e#10961#10966#0#HTML" expanded="true" />
+                <element signature="e#12768#12773#0#HTML" expanded="true" />
+                <element signature="e#28468#28473#0#HTML" expanded="true" />
+                <element signature="e#28599#28604#0#HTML" expanded="true" />
+                <element signature="e#29112#29117#0#HTML" expanded="true" />
+                <element signature="e#31804#31809#0#HTML" expanded="true" />
+                <element signature="e#32209#32214#0#HTML" expanded="true" />
+                <element signature="e#33891#33896#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +87,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>span-new</find>
       <find>#bd2754</find>
       <find>POPULAR PRODUCTS</find>
       <find>sale-label</find>
@@ -115,6 +116,7 @@
       <find>button</find>
       <find>initializeClock</find>
       <find>confirm_password</find>
+      <find>MANUFACTURERS</find>
     </findStrings>
     <replaceStrings>
       <replace>#ffa12c</replace>
@@ -141,8 +143,8 @@
         <option value="$PROJECT_DIR$/shop/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/assests/css/castome.css" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
   </component>
@@ -240,12 +242,12 @@
       <workItem from="1517995387332" duration="1174000" />
       <workItem from="1517996583875" duration="3071000" />
       <workItem from="1518086042358" duration="906000" />
-      <workItem from="1518088659432" duration="6075000" />
+      <workItem from="1518088659432" duration="6205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35878000" />
+    <option name="totallyTimeSpent" value="36008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -550,29 +552,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="436" column="38" lean-forward="false" selection-start-line="436" selection-start-column="38" selection-end-line="436" selection-end-column="38" />
-          <folding>
-            <element signature="n#select#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#10960#10965#0#HTML" expanded="true" />
-            <element signature="e#12767#12772#0#HTML" expanded="true" />
-            <element signature="e#28467#28472#0#HTML" expanded="true" />
-            <element signature="e#28598#28603#0#HTML" expanded="true" />
-            <element signature="e#29111#29116#0#HTML" expanded="true" />
-            <element signature="e#31803#31808#0#HTML" expanded="true" />
-            <element signature="e#32208#32213#0#HTML" expanded="true" />
-            <element signature="e#33890#33895#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="389" column="54" lean-forward="false" selection-start-line="389" selection-start-column="46" selection-end-line="389" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="51" column="86" lean-forward="false" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+          <folding>
+            <element signature="n#select#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#10961#10966#0#HTML" expanded="true" />
+            <element signature="e#12768#12773#0#HTML" expanded="true" />
+            <element signature="e#28468#28473#0#HTML" expanded="true" />
+            <element signature="e#28599#28604#0#HTML" expanded="true" />
+            <element signature="e#29112#29117#0#HTML" expanded="true" />
+            <element signature="e#31804#31809#0#HTML" expanded="true" />
+            <element signature="e#32209#32214#0#HTML" expanded="true" />
+            <element signature="e#33891#33896#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
