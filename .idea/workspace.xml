@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb768918-5406-49f0-83dd-fa01f976a196" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assests/css/castome.css" afterPath="$PROJECT_DIR$/assests/css/castome.css" />
-      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change beforePath="$PROJECT_DIR$/assests/img/slide/04" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +19,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assests/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="98550">
               <caret line="5475" column="31" lean-forward="false" selection-start-line="5475" selection-start-column="0" selection-end-line="5475" selection-end-column="31" />
               <folding />
             </state>
@@ -27,8 +29,8 @@
       <file leaf-file-name="castome.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="110" column="17" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+            <state relative-caret-position="529">
+              <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -37,8 +39,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="389" column="54" lean-forward="false" selection-start-line="389" selection-start-column="46" selection-end-line="389" selection-end-column="54" />
+            <state relative-caret-position="282">
+              <caret line="384" column="35" lean-forward="false" selection-start-line="384" selection-start-column="27" selection-end-line="384" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -47,7 +49,7 @@
       <file leaf-file-name="theme.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assests/js/theme.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-29">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -57,19 +59,9 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="558">
               <caret line="31" column="104" lean-forward="false" selection-start-line="31" selection-start-column="104" selection-end-line="31" selection-end-column="104" />
-              <folding>
-                <element signature="n#select#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#10961#10966#0#HTML" expanded="true" />
-                <element signature="e#12768#12773#0#HTML" expanded="true" />
-                <element signature="e#28468#28473#0#HTML" expanded="true" />
-                <element signature="e#28599#28604#0#HTML" expanded="true" />
-                <element signature="e#29112#29117#0#HTML" expanded="true" />
-                <element signature="e#31804#31809#0#HTML" expanded="true" />
-                <element signature="e#32209#32214#0#HTML" expanded="true" />
-                <element signature="e#33891#33896#0#HTML" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +69,7 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="1170">
               <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
               <folding />
             </state>
@@ -143,8 +135,8 @@
         <option value="$PROJECT_DIR$/shop/index.php" />
         <option value="$PROJECT_DIR$/shop/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assests/css/castome.css" />
       </list>
     </option>
@@ -157,10 +149,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="311" />
+    <option name="y" value="181" />
+    <option name="width" value="917" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -177,8 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,16 +181,12 @@
               <item name="adwaa" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assests" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="adwaa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adwaa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assests" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,12 +229,13 @@
       <workItem from="1517995387332" duration="1174000" />
       <workItem from="1517996583875" duration="3071000" />
       <workItem from="1518086042358" duration="906000" />
-      <workItem from="1518088659432" duration="6454000" />
+      <workItem from="1518088659432" duration="6632000" />
+      <workItem from="1518098238093" duration="762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36257000" />
+    <option name="totallyTimeSpent" value="37197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -259,12 +246,12 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -523,7 +510,7 @@
     <entry file="file://$PROJECT_DIR$/shop/header.php" />
     <entry file="file://$PROJECT_DIR$/assests/js/theme.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -531,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assests/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="98550">
           <caret line="5475" column="31" lean-forward="false" selection-start-line="5475" selection-start-column="0" selection-end-line="5475" selection-end-column="31" />
           <folding />
         </state>
@@ -539,42 +526,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="1170">
           <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="389" column="54" lean-forward="false" selection-start-line="389" selection-start-column="46" selection-end-line="389" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="558">
           <caret line="31" column="104" lean-forward="false" selection-start-line="31" selection-start-column="104" selection-end-line="31" selection-end-column="104" />
-          <folding>
-            <element signature="n#select#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#10961#10966#0#HTML" expanded="true" />
-            <element signature="e#12768#12773#0#HTML" expanded="true" />
-            <element signature="e#28468#28473#0#HTML" expanded="true" />
-            <element signature="e#28599#28604#0#HTML" expanded="true" />
-            <element signature="e#29112#29117#0#HTML" expanded="true" />
-            <element signature="e#31804#31809#0#HTML" expanded="true" />
-            <element signature="e#32209#32214#0#HTML" expanded="true" />
-            <element signature="e#33891#33896#0#HTML" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="384" column="35" lean-forward="false" selection-start-line="384" selection-start-column="27" selection-end-line="384" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assests/css/castome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="110" column="17" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        <state relative-caret-position="529">
+          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
           <folding />
         </state>
       </provider>

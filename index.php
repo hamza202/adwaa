@@ -383,16 +383,17 @@
             <div class="container text-center">
                 <h2 class="sec-heading">Manufacturers</h2>
                 <ul class="bxslider">
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-                    <li><img src="assests/img/BESANTEK.gif" alt="" /></li>
-
+                    <li><img src="assests/img/slide/01.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/2.png" alt="" /></li>
+                    <li><img src="assests/img/slide/03.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/04.png" alt="" /></li>
+                    <li><img src="assests/img/slide/05.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/06.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/07.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/08.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/09.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/10.jpg" alt="" /></li>
+                    <li><img src="assests/img/slide/11.png" alt="" /></li>
                 </ul>
             </div>
         </div>

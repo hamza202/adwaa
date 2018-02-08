@@ -110,3 +110,9 @@ select.sin-select:focus{
     max-width: 52px;
     margin-top: 0;
 }
+/*/////*/
+.bxslider img{
+    width: 100px;
+    height: 50px;
+    padding-bottom: 10px;
+}
