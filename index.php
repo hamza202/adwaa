@@ -73,17 +73,19 @@
                 <ul>
                     <li class="sub-menu"><a class="main-a" href="javascript:void(0)">CATEGORIES <i class='fa fa-angle-down'></i></a>
                         <ul>
-                            <li><a href="#">about us</a>
+                            <li><a href="#">About Us</a>
                             </li>
-                            <li><a href="#">categories</a>
+                            <li><a href="#">Join Our Mailing List</a>
                             </li>
-                            <li><a href="#">promation</a>
+                            <li><a href="#">Product Categories</a>
                             </li>
-                            <li><a href="#">join our</a>
+                            <li><a href="#">Promotion</a>
                             </li>
-                            <li><a href="#">clearna</a>
+                            <li><a href="#">News</a>
                             </li>
-                            <li><a href="#">new</a></li>
+                            <li><a href="#">Clearance Outlet</a></li>
+                            <li><a href="#">Where to Buy</a></li>
+                            <li><a href="#">Contact Us</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -207,21 +209,21 @@
         <div class="col-md-2 padd-50 deals-of-day">
             <h2>DEAL</h2>
             <h3>OF THE DAY</h3>
-            <div id="clockdiv">
-                <!--hours-->
-                <div class="col-xs-4"><span class="hours"></span>
-                    <p class="counter-p">HOUR</p>
-                </div>
-                <!--minutes-->
-                <div class="col-xs-4"><span class="minutes"></span>
-                    <p class="counter-p">MIN</p>
-                </div>
-                <!--second-->
-                <div class="col-xs-4"><span class="seconds"></span>
-                    <p class="counter-p">SEC</p>
-                </div>
-                <div class="clearfix"></div>
-            </div>
+<!--            <div id="clockdiv">-->
+               <!--hours-->
+<!--                <div class="col-xs-4"><span class="hours"></span>-->
+<!--                    <p class="counter-p">HOUR</p>-->
+<!--                </div>-->
+<!--                <!--minutes-->-->
+<!--                <div class="col-xs-4"><span class="minutes"></span>-->
+<!--                    <p class="counter-p">MIN</p>-->
+<!--                </div>-->
+<!--                <!--second-->-->
+<!--                <div class="col-xs-4"><span class="seconds"></span>-->
+<!--                    <p class="counter-p">SEC</p>-->
+<!--                </div>-->
+<!--                <div class="clearfix"></div>-->
+<!--            </div>-->
           </div>
         <div class="Deals col-md-10">
             <div class="owl-carousel" id="Todays-Deals">
@@ -463,55 +465,55 @@
 <!--Select-custom-->
 <script src="assests/js/classie.js"></script>
 <script src="assests/js/selectFx.js"></script>
-<script>
-    (function () {
-        [].slice.call(document.querySelectorAll('select.cs-select')).forEach(function (el) {
-            new SelectFx(el);
-        });
-    })();
-</script>
+<!--<script>-->
+<!--    (function () {-->
+<!--        [].slice.call(document.querySelectorAll('select.cs-select')).forEach(function (el) {-->
+<!--            new SelectFx(el);-->
+<!--        });-->
+<!--    })();-->
+<!--</script>-->
 <!--count-down-->
 <script>
-    function getTimeRemaining(endtime) {
-        var t = Date.parse(endtime) - Date.parse(new Date());
-        var seconds = Math.floor((t / 1000) % 60);
-        var minutes = Math.floor((t / 1000 / 60) % 60);
-        var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+    // function getTimeRemaining(endtime) {
+    //     var t = Date.parse(endtime) - Date.parse(new Date());
+    //     var seconds = Math.floor((t / 1000) % 60);
+    //     var minutes = Math.floor((t / 1000 / 60) % 60);
+    //     var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+    //
+    //     return {
+    //         'total': t,
+    //
+    //         'hours': hours,
+    //         'minutes': minutes,
+    //         'seconds': seconds
+    //     };
+    // }
 
-        return {
-            'total': t,
+    // function initializeClock(id, endtime) {
+    //     var clock = document.getElementById(id);
+    //     var hoursSpan = clock.querySelector('.hours');
+    //     var minutesSpan = clock.querySelector('.minutes');
+    //     var secondsSpan = clock.querySelector('.seconds');
+    //
+    //     function updateClock() {
+    //         var t = getTimeRemaining(endtime);
+    //
+    //
+    //         hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+    //         minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+    //         secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+    //
+    //         if (t.total <= 0) {
+    //             clearInterval(timeinterval);
+    //         }
+    //     }
+    //
+    //     updateClock();
+    //     var timeinterval = setInterval(updateClock, 1000);
+    // }
 
-            'hours': hours,
-            'minutes': minutes,
-            'seconds': seconds
-        };
-    }
-
-    function initializeClock(id, endtime) {
-        var clock = document.getElementById(id);
-        var hoursSpan = clock.querySelector('.hours');
-        var minutesSpan = clock.querySelector('.minutes');
-        var secondsSpan = clock.querySelector('.seconds');
-
-        function updateClock() {
-            var t = getTimeRemaining(endtime);
-
-
-            hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
-            minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-            secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
-
-            if (t.total <= 0) {
-                clearInterval(timeinterval);
-            }
-        }
-
-        updateClock();
-        var timeinterval = setInterval(updateClock, 1000);
-    }
-
-    var deadline = new Date(Date.parse(new Date()) + 104 * 24 * 60 * 60 * 1000);
-    initializeClock('clockdiv', deadline);
+    // var deadline = new Date(Date.parse(new Date()) + 104 * 24 * 60 * 60 * 1000);
+    //initializeClock('clockdiv', deadline);
 </script>
 <!--Slick-slider-->
 <script src="assests/js/slick.js"></script>
@@ -567,6 +569,7 @@
         $(this).find("i.fa").toggleClass("fa-angle-up fa-angle-down");
     });
 </script>
+
 </body>
 
 </html>
